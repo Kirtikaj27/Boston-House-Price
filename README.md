@@ -5,6 +5,7 @@ Simple machine learning model made using ExtraTreesRegressor
 About Boston House Price Dataset:
 Each record in the database describes a Boston suburb or town. The data was drawn from the Boston Standard Metropolitan Statistical Area (SMSA) in 1970. The attributes are deﬁned as follows (taken from the UCI Machine Learning Repository1): CRIM: per capita crime rate by town
 
+```
 CRIM per capita crime rate by town
 ZN proportion of residential land zoned for lots over 25,000 sq.ft.
 INDUS proportion of non-retail business acres per town
@@ -19,3 +20,4 @@ PTRATIO pupil-teacher ratio by town
 B 1000(Bk - 0.63)^2 where Bk is the proportion of blacks by town
 LSTAT % lower status of the population
 MEDV: Median value of owner-occupied homes in $1000s
+```
